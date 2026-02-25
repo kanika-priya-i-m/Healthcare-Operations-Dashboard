@@ -54,7 +54,7 @@ The dashboard focuses on performance monitoring, patient demand analysis, capaci
 ├── .streamlit/
 │   └── config.toml
 ├── Agile_document/
-│   └── Niyati_agile_document.xls
+│   └── Kanika_agile_document.xls
 ├── .gitignore
 └── README.md
 ```
@@ -123,7 +123,7 @@ Agile documentation including:
 Available at:
 
 ```
-Agile_document/Niyati_agile_document.xls
+Agile_document/Kanika_agile_document.xls
 ```
 
 ---
